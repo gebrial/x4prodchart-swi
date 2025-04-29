@@ -8,7 +8,9 @@ Created with React.
 ## How to use
 Live website: https://x4prodchart.com/   
    
-Or, clone the repo and run 'npm start'  
+Or, clone the repo and run 'npm start'
+
+Use `npm run build` to build the files to the build folder which can serve as a static site.
 
 ## Requests
 If you'd like to see any new features send me a request. Or... code it and make a PR 😂
