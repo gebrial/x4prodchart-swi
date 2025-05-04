@@ -456,5 +456,22 @@
 		"materialName": "BoFu",
 		"producedBy": ["BoGas", "Plankton"],
 		"produces": [] 
-	}
+	},
+
+    {
+        "materialType": "tier3",
+        "materialName": "Ship Supplies",
+        "producedBy": ["Food Rations", "Medical Supplies", "Refined Metals", "Water"],
+        "produces": [],
+        "producedByOptions": [
+            {
+                "faction": "Universal",
+                "producedBy": ["Food Rations", "Medical Supplies", "Refined Metals", "Water"]
+            },
+            {
+                "faction": "Sith",
+                "producedBy": ["Fibersteel", "Bacta Solution"]
+            }
+        ]
+    }
 ]
